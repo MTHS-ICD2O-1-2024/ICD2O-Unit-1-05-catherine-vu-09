@@ -1,0 +1,25 @@
+/* Created by: Catherine Vu
+* Created on:February 20 2025 
+* This file contains the CSS for index.html
+*/
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-textfield__error {
+  color: rgb(238, 144, 177);
+}
+
+.page-content {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
+}
+
+body {
+  background-color: rgb(242, 149, 219);
+}
